@@ -2,7 +2,7 @@
     <img src="src/assets/images/logo.svg" width="50px" />
 </p>
 
-# ComputeSphere vue Contact Manager Example App
+# ComputeSphere Vue Contact Manager Example App
 
 This example deploys a vue application to ComputeSphere.
 
